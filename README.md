@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**maartje89/maartje89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on: getting to know GitHub
 - 🌱 I’m currently learning: a lot :wink:
 - 👯 I’m looking to collaborate on: ...
@@ -13,4 +8,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: maartje@mvgelder.nl
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+<!--
+**maartje89/maartje89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
